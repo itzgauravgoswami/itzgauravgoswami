@@ -1,16 +1,19 @@
-[![MasterHead](https://gauravgoswami.onrender.com)](https://gauravgoswami.onrender.com)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://gauravgoswami.onrender.com)
 <h1 align="center">Hi 👋, I'm Gaurav Goswami</h1>
 <h3 align="center">A Passionate Front-End Developer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzgauravgoswami&label=Profile%20views&color=0e75b6&style=flat" alt="itzgauravgoswami" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzgauravgoswami" alt="itzgauravgoswami" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 I’m currently working on **Education Dashboard**
 
 - 🌱 I’m currently learning **Java**
 
+- 👯 I’m looking to collaborate on **MERN Projects**
+
+- 🤝 I’m looking for help with **Education Dashboard**
+
 - 👨‍💻 All of my projects are available at [https://gauravgoswami.onrender.com](https://gauravgoswami.onrender.com)
+
+- 💬 Ask me about **WEB DEVELOPMENT**
 
 - 📫 How to reach me **goswamigaurav2005@gmail.com**
 
