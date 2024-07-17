@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://gauravgoswami.onrender.com)
-<img align = "right" alt = "Coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 <h1 align="center">Hi 👋, I'm Gaurav Goswami</h1>
 <h3 align="center">A Passionate Front-End Developer From India</h3>
+<img align = "right" alt = "Coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
 - 🔭 I’m currently working on **Education Dashboard**
 
