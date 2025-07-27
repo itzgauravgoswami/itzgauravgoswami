@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **goswamigaurav2005@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dsZnMQe3830xUEF5q7Jh0CodiOi5naCp/view?usp=sharing](https://drive.google.com/file/d/1dsZnMQe3830xUEF5q7Jh0CodiOi5naCp/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qOPJ5nTXQyjFr4ymh0FhFO59qtm4HmHv/view?usp=sharing](https://drive.google.com/file/d/1qOPJ5nTXQyjFr4ymh0FhFO59qtm4HmHv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
