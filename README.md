@@ -1,10 +1,7 @@
 # Gaurav Goswami | Full Stack Web Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=itzgauravgoswami&color=blueviolet&style=flat) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/itzgauravgoswami) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itzgauravgoswami/) 
-[![Discord](https://img.shields.io/badge/Discord-0077B5?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/1152507184643588096) 
-[![GitHub followers](https://img.shields.io/github/followers/itzgauravgoswami?label=Follow&style=social)](https://github.com/itzgauravgoswami)
+![Profile Views](https://komarev.com/ghpvc/?username=itzgauravgoswami&color=blueviolet&style=flat) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/itzgauravgoswami) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itzgauravgoswami/) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1152507184643588096) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/itzgauravgoswami) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/itzgauravgoswami) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/itzgauravgoswami) [![Devfolio](https://img.shields.io/badge/Devfolio-0072CE?style=flat&logo=dev.to&logoColor=white)](https://devfolio.co/@gauravgoswami05)
+
 
 ---
 
