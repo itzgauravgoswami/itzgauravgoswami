@@ -44,6 +44,12 @@ Currently pursuing **B.Tech CSE (Batch '27)**.
 
 ---
 
+## 🧑‍💻 LeetCode 
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=itzgauravgoswami&theme=dark&animated=true&width=100%)
+
+---
+
 ## 💭 Quote of the Day  
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
