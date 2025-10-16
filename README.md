@@ -37,7 +37,6 @@ Currently pursuing **B.Tech CSE (Batch '27)**.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzgauravgoswami&show_icons=true&layout=compact&hide_border=true&theme=tokyonight) 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzgauravgoswami&show_icons=true&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzgauravgoswami&theme=tokyonight&hide_border=true)  
 
 ---
 
