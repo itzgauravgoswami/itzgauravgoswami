@@ -1,5 +1,6 @@
-# Gaurav Goswami | Full Stack (MERN) & GenAI Developer
+![Gaurav Goswami — Full Stack MERN & GenAI Developer](Assets%20%28Banner%29/Banner%20%28GitHub%29.png)
 
+# Gaurav Goswami | Full Stack (MERN) & GenAI Developer
 [![Profile Views](https://komarev.com/ghpvc/?username=itzgauravgoswami&color=blueviolet&style=flat)](https://github.com/itzgauravgoswami)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/itzgauravgoswami)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itzgauravgoswami/)
